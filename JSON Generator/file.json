@@ -1,0 +1,994 @@
+{
+    "Coureurs": [
+        {
+            "Numéro de dossard": 1,
+            "Nom": "Jean-Paul",
+            "Poids": 55.343482971191409,
+            "Taille": 1.5690877437591553,
+            "Poids de la chaussure": 129.4686737060547,
+            "Vitesse moyenne précédente": 5.0878424644470219,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 2,
+            "Nom": "Fabrice",
+            "Poids": 102.8310546875,
+            "Taille": 1.7391154766082764,
+            "Poids de la chaussure": 105.21256256103516,
+            "Vitesse moyenne précédente": 3.0623714923858644,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 3,
+            "Nom": "Sonia",
+            "Poids": 77.1817626953125,
+            "Taille": 1.6689809560775757,
+            "Poids de la chaussure": 224.3507080078125,
+            "Vitesse moyenne précédente": 5.144708633422852,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 4,
+            "Nom": "Evan",
+            "Poids": 49.62126541137695,
+            "Taille": 1.8390514850616456,
+            "Poids de la chaussure": 291.74169921875,
+            "Vitesse moyenne précédente": 2.724811315536499,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 5,
+            "Nom": "Vlad",
+            "Poids": 73.91781616210938,
+            "Taille": 1.8157017230987549,
+            "Poids de la chaussure": 197.68365478515626,
+            "Vitesse moyenne précédente": 4.1206769943237309,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 6,
+            "Nom": "Brice",
+            "Poids": 48.48826599121094,
+            "Taille": 1.6710318326950074,
+            "Poids de la chaussure": 194.03973388671876,
+            "Vitesse moyenne précédente": 3.7517082691192629,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 7,
+            "Nom": "Jean-Marie",
+            "Poids": 48.854488372802737,
+            "Taille": 1.8042511940002442,
+            "Poids de la chaussure": 221.5674285888672,
+            "Vitesse moyenne précédente": 5.528224468231201,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 8,
+            "Nom": "Agnes",
+            "Poids": 87.97845458984375,
+            "Taille": 1.4788933992385865,
+            "Poids de la chaussure": 169.06948852539063,
+            "Vitesse moyenne précédente": 4.904460430145264,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 9,
+            "Nom": "Andree",
+            "Poids": 103.18582153320313,
+            "Taille": 1.538047432899475,
+            "Poids de la chaussure": 132.95388793945313,
+            "Vitesse moyenne précédente": 4.4302449226379398,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 10,
+            "Nom": "Jocelyne",
+            "Poids": 75.52919006347656,
+            "Taille": 1.8578507900238038,
+            "Poids de la chaussure": 117.84722900390625,
+            "Vitesse moyenne précédente": 5.5195183753967289,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 11,
+            "Nom": "Jean-Jacques",
+            "Poids": 95.02822875976563,
+            "Taille": 1.3882075548171998,
+            "Poids de la chaussure": 200.79653930664063,
+            "Vitesse moyenne précédente": 3.211920738220215,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 12,
+            "Nom": "Ladislas",
+            "Poids": 77.55256652832031,
+            "Taille": 1.8448622226715088,
+            "Poids de la chaussure": 197.3723602294922,
+            "Vitesse moyenne précédente": 2.606340169906616,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 13,
+            "Nom": "Elisee",
+            "Poids": 75.58869934082031,
+            "Taille": 1.79378342628479,
+            "Poids de la chaussure": 143.61094665527345,
+            "Vitesse moyenne précédente": 2.9562435150146486,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 14,
+            "Nom": "Nancy",
+            "Poids": 65.13076782226563,
+            "Taille": 1.7517197132110596,
+            "Poids de la chaussure": 267.2658386230469,
+            "Vitesse moyenne précédente": 2.3144052028656008,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 15,
+            "Nom": "Anne-Marie",
+            "Poids": 93.80367279052735,
+            "Taille": 1.6438581943511963,
+            "Poids de la chaussure": 191.17098999023438,
+            "Vitesse moyenne précédente": 3.2618439197540285,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 16,
+            "Nom": "Maria",
+            "Poids": 100.47578430175781,
+            "Taille": 1.3564622402191163,
+            "Poids de la chaussure": 114.93576049804688,
+            "Vitesse moyenne précédente": 3.6729111671447756,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 17,
+            "Nom": "Max",
+            "Poids": 98.41349792480469,
+            "Taille": 1.6324716806411744,
+            "Poids de la chaussure": 284.087646484375,
+            "Vitesse moyenne précédente": 5.425402641296387,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 18,
+            "Nom": "Genevieve",
+            "Poids": 61.82103729248047,
+            "Taille": 1.9189062118530274,
+            "Poids de la chaussure": 203.04879760742188,
+            "Vitesse moyenne précédente": 4.598308563232422,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 19,
+            "Nom": "Theodore",
+            "Poids": 103.83587646484375,
+            "Taille": 1.6261268854141236,
+            "Poids de la chaussure": 205.04470825195313,
+            "Vitesse moyenne précédente": 4.88164758682251,
+            "Semaines de préparation": 14
+        },
+        {
+            "Numéro de dossard": 20,
+            "Nom": "Mattis",
+            "Poids": 66.91152954101563,
+            "Taille": 1.9357402324676514,
+            "Poids de la chaussure": 182.92489624023438,
+            "Vitesse moyenne précédente": 2.51960825920105,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 21,
+            "Nom": "Timothee",
+            "Poids": 73.79192352294922,
+            "Taille": 1.7353129386901856,
+            "Poids de la chaussure": 135.40147399902345,
+            "Vitesse moyenne précédente": 3.936302661895752,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 22,
+            "Nom": "Constantin",
+            "Poids": 92.70272064208985,
+            "Taille": 1.40093994140625,
+            "Poids de la chaussure": 117.82280731201172,
+            "Vitesse moyenne précédente": 3.502863883972168,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 23,
+            "Nom": "Medard",
+            "Poids": 64.0321044921875,
+            "Taille": 1.730271339416504,
+            "Poids de la chaussure": 230.97323608398438,
+            "Vitesse moyenne précédente": 5.404573917388916,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 24,
+            "Nom": "Marie-France",
+            "Poids": 101.48976135253906,
+            "Taille": 1.6871821880340577,
+            "Poids de la chaussure": 259.61181640625,
+            "Vitesse moyenne précédente": 5.004306793212891,
+            "Semaines de préparation": 14
+        },
+        {
+            "Numéro de dossard": 25,
+            "Nom": "Marcelle",
+            "Poids": 78.12020874023438,
+            "Taille": 1.4918179512023926,
+            "Poids de la chaussure": 110.63875579833985,
+            "Vitesse moyenne précédente": 3.747410297393799,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 26,
+            "Nom": "Baptiste",
+            "Poids": 71.06356811523438,
+            "Taille": 1.8135440349578858,
+            "Poids de la chaussure": 122.79732513427735,
+            "Vitesse moyenne précédente": 2.243983745574951,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 27,
+            "Nom": "Hugo",
+            "Poids": 102.65023040771485,
+            "Taille": 1.3375346660614014,
+            "Poids de la chaussure": 251.67698669433595,
+            "Vitesse moyenne précédente": 2.9311165809631349,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 28,
+            "Nom": "Melissa",
+            "Poids": 114.1015396118164,
+            "Taille": 1.3155094385147095,
+            "Poids de la chaussure": 299.566650390625,
+            "Vitesse moyenne précédente": 4.996922969818115,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 29,
+            "Nom": "Marie-Françoise",
+            "Poids": 75.81072235107422,
+            "Taille": 1.4144413471221924,
+            "Poids de la chaussure": 185.39688110351563,
+            "Vitesse moyenne précédente": 5.376251220703125,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 30,
+            "Nom": "Franck",
+            "Poids": 84.38032531738281,
+            "Taille": 1.3828455209732056,
+            "Poids de la chaussure": 159.48667907714845,
+            "Vitesse moyenne précédente": 2.8475804328918459,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 31,
+            "Nom": "Lorenzo",
+            "Poids": 105.73107147216797,
+            "Taille": 1.7983123064041138,
+            "Poids de la chaussure": 287.0113220214844,
+            "Vitesse moyenne précédente": 4.8355817794799809,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 32,
+            "Nom": "Edouard",
+            "Poids": 55.073394775390628,
+            "Taille": 1.8806451559066773,
+            "Poids de la chaussure": 277.89239501953127,
+            "Vitesse moyenne précédente": 2.928691864013672,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 33,
+            "Nom": "Jennifer",
+            "Poids": 92.44407653808594,
+            "Taille": 1.7905148267745972,
+            "Poids de la chaussure": 253.28225708007813,
+            "Vitesse moyenne précédente": 3.4002623558044435,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 34,
+            "Nom": "Micheline",
+            "Poids": 91.66356658935547,
+            "Taille": 1.3194189071655274,
+            "Poids de la chaussure": 136.39027404785157,
+            "Vitesse moyenne précédente": 2.3555119037628176,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 35,
+            "Nom": "Edwige",
+            "Poids": 119.95880126953125,
+            "Taille": 1.452894687652588,
+            "Poids de la chaussure": 261.93121337890627,
+            "Vitesse moyenne précédente": 2.4167861938476564,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 36,
+            "Nom": "Aurelien",
+            "Poids": 104.73082733154297,
+            "Taille": 1.5902156829833985,
+            "Poids de la chaussure": 139.46043395996095,
+            "Vitesse moyenne précédente": 4.932342529296875,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 37,
+            "Nom": "Berenger",
+            "Poids": 97.28507232666016,
+            "Taille": 1.7715659141540528,
+            "Poids de la chaussure": 106.34174346923828,
+            "Vitesse moyenne précédente": 1.9594324827194214,
+            "Semaines de préparation": 14
+        },
+        {
+            "Numéro de dossard": 38,
+            "Nom": "Simonne",
+            "Poids": 80.20767974853516,
+            "Taille": 1.4293954372406006,
+            "Poids de la chaussure": 290.78338623046877,
+            "Vitesse moyenne précédente": 2.1209940910339357,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 39,
+            "Nom": "Morgan",
+            "Poids": 89.84390258789063,
+            "Taille": 1.5896389484405518,
+            "Poids de la chaussure": 299.468994140625,
+            "Vitesse moyenne précédente": 1.9740898609161378,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 40,
+            "Nom": "Josephine",
+            "Poids": 47.30261993408203,
+            "Taille": 1.4298226833343506,
+            "Poids de la chaussure": 173.09793090820313,
+            "Vitesse moyenne précédente": 2.570523262023926,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 41,
+            "Nom": "Hortense",
+            "Poids": 45.173954010009769,
+            "Taille": 1.7004272937774659,
+            "Poids de la chaussure": 240.57435607910157,
+            "Vitesse moyenne précédente": 3.626734972000122,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 42,
+            "Nom": "Anna",
+            "Poids": 81.70232391357422,
+            "Taille": 1.7633838653564454,
+            "Poids de la chaussure": 175.35020446777345,
+            "Vitesse moyenne précédente": 4.917354583740234,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 43,
+            "Nom": "Rachel",
+            "Poids": 54.320350646972659,
+            "Taille": 1.6407177448272706,
+            "Poids de la chaussure": 238.6883087158203,
+            "Vitesse moyenne précédente": 3.972781181335449,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 44,
+            "Nom": "Jade",
+            "Poids": 79.24634552001953,
+            "Taille": 1.4304848909378052,
+            "Poids de la chaussure": 210.81881713867188,
+            "Vitesse moyenne précédente": 5.379997730255127,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 45,
+            "Nom": "Gregory",
+            "Poids": 77.81578826904297,
+            "Taille": 1.6756675243377686,
+            "Poids de la chaussure": 286.36431884765627,
+            "Vitesse moyenne précédente": 4.146685600280762,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 46,
+            "Nom": "Nadege",
+            "Poids": 47.71691131591797,
+            "Taille": 1.9027771949768067,
+            "Poids de la chaussure": 270.00030517578127,
+            "Vitesse moyenne précédente": 3.4692511558532717,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 47,
+            "Nom": "Ninon",
+            "Poids": 52.69524383544922,
+            "Taille": 1.8152744770050049,
+            "Poids de la chaussure": 177.66351318359376,
+            "Vitesse moyenne précédente": 2.5219225883483888,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 48,
+            "Nom": "Honorine",
+            "Poids": 51.900997161865237,
+            "Taille": 1.573702096939087,
+            "Poids de la chaussure": 252.055419921875,
+            "Vitesse moyenne précédente": 3.4467689990997316,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 49,
+            "Nom": "Remy",
+            "Poids": 59.39481735229492,
+            "Taille": 1.9534502029418946,
+            "Poids de la chaussure": 263.9698486328125,
+            "Vitesse moyenne précédente": 3.8745877742767336,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 50,
+            "Nom": "Sylvia",
+            "Poids": 109.57182312011719,
+            "Taille": 1.383593201637268,
+            "Poids de la chaussure": 218.48504638671876,
+            "Vitesse moyenne précédente": 3.7424511909484865,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 51,
+            "Nom": "William",
+            "Poids": 114.98733520507813,
+            "Taille": 1.9701344966888428,
+            "Poids de la chaussure": 241.4532928466797,
+            "Vitesse moyenne précédente": 5.1654276847839359,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 52,
+            "Nom": "Marie-Ange",
+            "Poids": 73.55616760253906,
+            "Taille": 1.7341166734695435,
+            "Poids de la chaussure": 112.8421859741211,
+            "Vitesse moyenne précédente": 4.464188098907471,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 53,
+            "Nom": "Emeric",
+            "Poids": 96.62129211425781,
+            "Taille": 1.6870753765106202,
+            "Poids de la chaussure": 263.9759521484375,
+            "Vitesse moyenne précédente": 3.418997287750244,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 54,
+            "Nom": "Lionel",
+            "Poids": 97.55973815917969,
+            "Taille": 1.95791494846344,
+            "Poids de la chaussure": 290.20355224609377,
+            "Vitesse moyenne précédente": 3.5443010330200197,
+            "Semaines de préparation": 14
+        },
+        {
+            "Numéro de dossard": 55,
+            "Nom": "Romeo",
+            "Poids": 111.62267303466797,
+            "Taille": 1.618030309677124,
+            "Poids de la chaussure": 175.05722045898438,
+            "Vitesse moyenne précédente": 4.3732686042785648,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 56,
+            "Nom": "Stanislas",
+            "Poids": 70.86215209960938,
+            "Taille": 1.3595170974731446,
+            "Poids de la chaussure": 100.09765625,
+            "Vitesse moyenne précédente": 4.433000087738037,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 57,
+            "Nom": "Angelica",
+            "Poids": 93.10098266601563,
+            "Taille": 1.603866696357727,
+            "Poids de la chaussure": 152.79092407226563,
+            "Vitesse moyenne précédente": 5.150108814239502,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 58,
+            "Nom": "Judith",
+            "Poids": 119.58341979980469,
+            "Taille": 1.89243745803833,
+            "Poids de la chaussure": 266.8630065917969,
+            "Vitesse moyenne précédente": 2.2714250087738039,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 59,
+            "Nom": "Sarah",
+            "Poids": 62.52372741699219,
+            "Taille": 1.7732962369918824,
+            "Poids de la chaussure": 161.3910369873047,
+            "Vitesse moyenne précédente": 5.457913398742676,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 60,
+            "Nom": "Clement",
+            "Poids": 109.64735412597656,
+            "Taille": 1.6885067224502564,
+            "Poids de la chaussure": 110.77303314208985,
+            "Vitesse moyenne précédente": 3.9554786682128908,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 61,
+            "Nom": "Mateusz",
+            "Poids": 63.127994537353519,
+            "Taille": 1.5197179317474366,
+            "Poids de la chaussure": 103.08847045898438,
+            "Vitesse moyenne précédente": 2.52148175239563,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 62,
+            "Nom": "Eloi",
+            "Poids": 99.123046875,
+            "Taille": 1.9051058292388917,
+            "Poids de la chaussure": 154.21307373046876,
+            "Vitesse moyenne précédente": 2.0802180767059328,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 63,
+            "Nom": "Natanael",
+            "Poids": 80.57847595214844,
+            "Taille": 1.635077953338623,
+            "Poids de la chaussure": 264.2506103515625,
+            "Vitesse moyenne précédente": 2.5796704292297365,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 64,
+            "Nom": "Edgard",
+            "Poids": 50.074466705322269,
+            "Taille": 1.4054902791976929,
+            "Poids de la chaussure": 156.111328125,
+            "Vitesse moyenne précédente": 5.116937160491943,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 65,
+            "Nom": "Pascaline",
+            "Poids": 79.81627655029297,
+            "Taille": 1.7909634113311768,
+            "Poids de la chaussure": 149.2873992919922,
+            "Vitesse moyenne précédente": 4.149881839752197,
+            "Semaines de préparation": 14
+        },
+        {
+            "Numéro de dossard": 66,
+            "Nom": "Nicolas",
+            "Poids": 72.60627746582031,
+            "Taille": 1.7386882305145264,
+            "Poids de la chaussure": 118.80550384521485,
+            "Vitesse moyenne précédente": 4.092684745788574,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 67,
+            "Nom": "Rodolphe",
+            "Poids": 99.44807434082031,
+            "Taille": 1.3080110549926758,
+            "Poids de la chaussure": 296.2950439453125,
+            "Vitesse moyenne précédente": 3.9540462493896486,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 68,
+            "Nom": "Thoma",
+            "Poids": 111.21524810791016,
+            "Taille": 1.8333262205123902,
+            "Poids de la chaussure": 110.85238647460938,
+            "Vitesse moyenne précédente": 3.403017520904541,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 69,
+            "Nom": "Noel",
+            "Poids": 82.62245178222656,
+            "Taille": 1.7038452625274659,
+            "Poids de la chaussure": 168.0135498046875,
+            "Vitesse moyenne précédente": 2.372042655944824,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 70,
+            "Nom": "Axelle",
+            "Poids": 46.155887603759769,
+            "Taille": 1.3723136186599732,
+            "Poids de la chaussure": 249.6383514404297,
+            "Vitesse moyenne précédente": 3.2474069595336916,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 71,
+            "Nom": "David",
+            "Poids": 60.78874969482422,
+            "Taille": 1.4604357481002808,
+            "Poids de la chaussure": 111.9815673828125,
+            "Vitesse moyenne précédente": 5.149447441101074,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 72,
+            "Nom": "Manon",
+            "Poids": 94.95040893554688,
+            "Taille": 1.3632556200027466,
+            "Poids de la chaussure": 287.4630126953125,
+            "Vitesse moyenne précédente": 3.541435718536377,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 73,
+            "Nom": "Florentin",
+            "Poids": 69.23932647705078,
+            "Taille": 1.8014740943908692,
+            "Poids de la chaussure": 283.574951171875,
+            "Vitesse moyenne précédente": 5.449317455291748,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 74,
+            "Nom": "Severin",
+            "Poids": 86.6875228881836,
+            "Taille": 1.970198631286621,
+            "Poids de la chaussure": 144.92324829101563,
+            "Vitesse moyenne précédente": 3.4636306762695314,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 75,
+            "Nom": "Yvon",
+            "Poids": 110.83757781982422,
+            "Taille": 1.3201239109039307,
+            "Poids de la chaussure": 125.59281921386719,
+            "Vitesse moyenne précédente": 4.363349914550781,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 76,
+            "Nom": "Thecle",
+            "Poids": 119.2950210571289,
+            "Taille": 1.5227301120758057,
+            "Poids de la chaussure": 235.33737182617188,
+            "Vitesse moyenne précédente": 5.099193572998047,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 77,
+            "Nom": "Morgane",
+            "Poids": 71.86468505859375,
+            "Taille": 1.7483229637145997,
+            "Poids de la chaussure": 298.43133544921877,
+            "Vitesse moyenne précédente": 3.4163522720336916,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 78,
+            "Nom": "Alexandre",
+            "Poids": 47.40790939331055,
+            "Taille": 1.667891502380371,
+            "Poids de la chaussure": 123.81664276123047,
+            "Vitesse moyenne précédente": 2.562147617340088,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 79,
+            "Nom": "Nina",
+            "Poids": 56.35288619995117,
+            "Taille": 1.3074556589126588,
+            "Poids de la chaussure": 254.1490020751953,
+            "Vitesse moyenne précédente": 5.512134552001953,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 80,
+            "Nom": "Ines",
+            "Poids": 86.04891967773438,
+            "Taille": 1.5802819728851319,
+            "Poids de la chaussure": 165.03494262695313,
+            "Vitesse moyenne précédente": 4.781801223754883,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 81,
+            "Nom": "Amanda",
+            "Poids": 67.84768676757813,
+            "Taille": 1.4320871829986573,
+            "Poids de la chaussure": 148.65260314941407,
+            "Vitesse moyenne précédente": 4.799875259399414,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 82,
+            "Nom": "Cecile",
+            "Poids": 52.67464065551758,
+            "Taille": 1.596304178237915,
+            "Poids de la chaussure": 263.0909423828125,
+            "Vitesse moyenne précédente": 4.720637321472168,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 83,
+            "Nom": "Laurence",
+            "Poids": 104.96658325195313,
+            "Taille": 1.9061311483383179,
+            "Poids de la chaussure": 285.38775634765627,
+            "Vitesse moyenne précédente": 5.521281719207764,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 84,
+            "Nom": "Christelle",
+            "Poids": 57.870418548583987,
+            "Taille": 1.9881649017333985,
+            "Poids de la chaussure": 197.4944305419922,
+            "Vitesse moyenne précédente": 4.6010637283325199,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 85,
+            "Nom": "Adele",
+            "Poids": 49.70824432373047,
+            "Taille": 1.8032684326171876,
+            "Poids de la chaussure": 184.42030334472657,
+            "Vitesse moyenne précédente": 3.370286226272583,
+            "Semaines de préparation": 11
+        },
+        {
+            "Numéro de dossard": 86,
+            "Nom": "Diego",
+            "Poids": 92.23806762695313,
+            "Taille": 1.842896819114685,
+            "Poids de la chaussure": 258.8854675292969,
+            "Vitesse moyenne précédente": 2.685798406600952,
+            "Semaines de préparation": 13
+        },
+        {
+            "Numéro de dossard": 87,
+            "Nom": "Claude",
+            "Poids": 114.87517547607422,
+            "Taille": 1.5713309049606324,
+            "Poids de la chaussure": 270.75714111328127,
+            "Vitesse moyenne précédente": 5.53968620300293,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 88,
+            "Nom": "Godefroy",
+            "Poids": 119.69786834716797,
+            "Taille": 1.9624652862548829,
+            "Poids de la chaussure": 238.2427520751953,
+            "Vitesse moyenne précédente": 4.243226051330566,
+            "Semaines de préparation": 15
+        },
+        {
+            "Numéro de dossard": 89,
+            "Nom": "Muriel",
+            "Poids": 104.53398132324219,
+            "Taille": 1.9519760608673096,
+            "Poids de la chaussure": 275.44482421875,
+            "Vitesse moyenne précédente": 4.9290361404418949,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 90,
+            "Nom": "Jeremy",
+            "Poids": 74.84481048583985,
+            "Taille": 1.350437879562378,
+            "Poids de la chaussure": 113.41593933105469,
+            "Vitesse moyenne précédente": 1.9657142162322999,
+            "Semaines de préparation": 16
+        },
+        {
+            "Numéro de dossard": 91,
+            "Nom": "Geoffroy",
+            "Poids": 53.926666259765628,
+            "Taille": 1.3755179643630982,
+            "Poids de la chaussure": 143.36680603027345,
+            "Vitesse moyenne précédente": 2.7440972328186037,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 92,
+            "Nom": "Armelle",
+            "Poids": 99.52589416503906,
+            "Taille": 1.7006409168243409,
+            "Poids de la chaussure": 276.622802734375,
+            "Vitesse moyenne précédente": 2.9173407554626467,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 93,
+            "Nom": "Gwenael",
+            "Poids": 52.73644256591797,
+            "Taille": 1.522495150566101,
+            "Poids de la chaussure": 141.4624481201172,
+            "Vitesse moyenne précédente": 2.1857950687408449,
+            "Semaines de préparation": 8
+        },
+        {
+            "Numéro de dossard": 94,
+            "Nom": "Maxime",
+            "Poids": 116.24393463134766,
+            "Taille": 1.753620982170105,
+            "Poids de la chaussure": 246.72079467773438,
+            "Vitesse moyenne précédente": 3.944568634033203,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 95,
+            "Nom": "Timothe",
+            "Poids": 93.08724975585938,
+            "Taille": 1.6915615797042847,
+            "Poids de la chaussure": 160.97598266601563,
+            "Vitesse moyenne précédente": 2.456239938735962,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 96,
+            "Nom": "Jose",
+            "Poids": 48.61873245239258,
+            "Taille": 1.5366160869598389,
+            "Poids de la chaussure": 110.00396728515625,
+            "Vitesse moyenne précédente": 3.459883689880371,
+            "Semaines de préparation": 12
+        },
+        {
+            "Numéro de dossard": 97,
+            "Nom": "Mathilde",
+            "Poids": 71.22379302978516,
+            "Taille": 1.4652210474014283,
+            "Poids de la chaussure": 107.72118377685547,
+            "Vitesse moyenne précédente": 2.4489665031433107,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 98,
+            "Nom": "Ellie",
+            "Poids": 86.52729797363281,
+            "Taille": 1.8525314331054688,
+            "Poids de la chaussure": 233.31704711914063,
+            "Vitesse moyenne précédente": 2.0882630348205568,
+            "Semaines de préparation": 9
+        },
+        {
+            "Numéro de dossard": 99,
+            "Nom": "Agathe",
+            "Poids": 109.25824737548828,
+            "Taille": 1.4134372472763062,
+            "Poids de la chaussure": 173.91583251953126,
+            "Vitesse moyenne précédente": 3.6276166439056398,
+            "Semaines de préparation": 10
+        },
+        {
+            "Numéro de dossard": 100,
+            "Nom": "Gregoire",
+            "Poids": 56.039306640625,
+            "Taille": 1.533347487449646,
+            "Poids de la chaussure": 293.0295715332031,
+            "Vitesse moyenne précédente": 4.252152442932129,
+            "Semaines de préparation": 16
+        }
+    ],
+    "Parcours": {
+        "Dénivelés": [
+            {
+                "Dénivelé": -12,
+                "Début du dénivelé": 0
+            },
+            {
+                "Dénivelé": 3,
+                "Début du dénivelé": 576
+            },
+            {
+                "Dénivelé": -2,
+                "Début du dénivelé": 5226
+            },
+            {
+                "Dénivelé": -12,
+                "Début du dénivelé": 8764
+            },
+            {
+                "Dénivelé": -1,
+                "Début du dénivelé": 10364
+            },
+            {
+                "Dénivelé": -13,
+                "Début du dénivelé": 12099
+            },
+            {
+                "Dénivelé": 5,
+                "Début du dénivelé": 13910
+            },
+            {
+                "Dénivelé": 7,
+                "Début du dénivelé": 17469
+            },
+            {
+                "Dénivelé": 7,
+                "Début du dénivelé": 18103
+            },
+            {
+                "Dénivelé": 0,
+                "Début du dénivelé": 22144
+            },
+            {
+                "Dénivelé": -5,
+                "Début du dénivelé": 24108
+            },
+            {
+                "Dénivelé": 3,
+                "Début du dénivelé": 24590
+            },
+            {
+                "Dénivelé": 11,
+                "Début du dénivelé": 26267
+            },
+            {
+                "Dénivelé": -7,
+                "Début du dénivelé": 29251
+            },
+            {
+                "Dénivelé": 0,
+                "Début du dénivelé": 31303
+            },
+            {
+                "Dénivelé": -7,
+                "Début du dénivelé": 33551
+            },
+            {
+                "Dénivelé": 5,
+                "Début du dénivelé": 35077
+            },
+            {
+                "Dénivelé": 5,
+                "Début du dénivelé": 38455
+            },
+            {
+                "Dénivelé": -6,
+                "Début du dénivelé": 40991
+            }
+        ],
+        "Ravitaillements": [
+            5949,
+            10279,
+            15485,
+            21132,
+            25417,
+            31391,
+            36031,
+            40861
+        ]
+    }
+}
