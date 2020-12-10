@@ -4,7 +4,7 @@ Projet de modélisation d'une épreuve de course à pied.
 # Fonctionnement
 Le projet se décompose en 3 parties.
 
-1. Générateur de fichier :
+### 1. Générateur de fichier :
 - Description :
 Cette partie permet de générer un fichier contenant toutes les informations de 100 coureurs et d'un parcours. Pour déterminer les noms des coureurs, le programme pioche des noms au hasard dans le fichier noms.txt. Après avoir lancé cet exécutable, il faut copier le fichier "file.json" dans le répertoire de la deuxième partie.
 - Fichier(s) d'entrée  :
@@ -12,7 +12,7 @@ Cette partie permet de générer un fichier contenant toutes les informations de
 - Fichier(s) de sortie :
   - file.json (contient les informations de 100 coureurs et d'un parcours)
 
-2. Course :  
+### 2. Course :  
 - Description :
 Cette partie effectue tous les calculs de distance de chaque coureur pour chaque seconde. Toutes les informations sont alors écrites dans le fichier "result.json". Ce fichier doit également être copié dans le répertoire de la troisième partie pour continuer.
 - Fichier(s) d'entrée  :
@@ -20,7 +20,7 @@ Cette partie effectue tous les calculs de distance de chaque coureur pour chaque
 - Fichier(s) de sortie :
   - result.json (contient les performances des 100 coureurs)
 
-3. Affichage :
+### 3. Affichage :
 - Description :
 Cette partie lit le fichier "result.json" puis lance une fenêtre SFML affichant les distances de chaque coureur ainsi qu'un lecteur. Grâce au lecteur, il est possible d'accélérer ou ralentir le temps (avec les touches + et - du pavé numérique), d'avancer ou reculer d'une heure, ou encore de faire pause/play.
 - Fichier(s) d'entrée  :
