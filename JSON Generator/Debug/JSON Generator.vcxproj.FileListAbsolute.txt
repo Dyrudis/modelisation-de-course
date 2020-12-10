@@ -1,2 +1,0 @@
-C:\Users\voltobre\source\repos\JSON Generator\Debug\JSON Generator.exe
-C:\Users\voltobre\source\repos\JSON Generator\Debug\JSON Generator.pdb
