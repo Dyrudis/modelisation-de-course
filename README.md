@@ -30,7 +30,7 @@ Cette partie lit le fichier "result.json" puis lance une fenêtre SFML affichant
   - aucun
 
 # Installation
-Pour installer le projet, il suffit de télécharger les 3 dossiers (Générateur de fichier, Course et Affichage) et de les ouvrir dans Visual Studio.
+Pour installer le projet, il suffit de télécharger les 3 dossiers (Générateur de fichier, Course et Affichage) et d'ouvir les fichiers solutions (.sln) dans Visual Studio.
 
 # Compilation
 La compilation des parties 1, 2 et 3 se fait dans Visual Studio.
